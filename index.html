@@ -8,15 +8,17 @@
 </head>
 <body>
   
-  <h1>TandemNotas</h1>
-    <form id="formulario-notas">
-        <label for="nota">Escribe tu nota:</label>
-        <br>
-        <textarea id="nota" name="nota" rows="5" cols="40"></textarea>
-        <br>
-        <br>
-        <button type="submit">Agregar nota</button>
-    </form>
+  <h1>Tandem Notas</h1>
+    <div>
+    <label for="dia">Introduce una fecha de </label>
+    <input type="date" id="data">
+    </div>
+    <div>
+    <label for="nota">Texto de la nota</label>
+    <textarea name="nota" id="" cols="30" rows="10"></textarea>
+    </div>
+    <button id="agregar">Agregar Nota</button>
+    <div id="mostrar notas"></div>
 
   <script src="script.js"></script>
 </body>
