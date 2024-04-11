@@ -7,18 +7,20 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  
+<div class="container">
   <h1>Tandem Notas</h1>
-    <div>
-    <label for="dia">Introduce una fecha de </label>
-    <input type="date" id="data">
+  <div class="nota" contenteditable="true">
+    Edita la nota
+  </div>
+  
+  <button id="add-nota">Añadir nota</button>
+  <button id="clean-notas">Limpiar notas</button>
+  <div id="display-notas">
+    <div class="no-nota">
+      <span>No tienes notas guardadas</span>
     </div>
-    <div>
-    <label for="nota">Texto de la nota</label>
-    <textarea name="nota" id="" cols="30" rows="10"></textarea>
-    </div>
-    <button id="agregar">Agregar Nota</button>
-    <div id="mostrar notas"></div>
+  </div>
+</div>
 
   <script src="script.js"></script>
 </body>
