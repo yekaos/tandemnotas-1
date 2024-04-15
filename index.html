@@ -3,21 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Notas</title>
+  <title>Tandem Notas</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="container">
   <h1>Tandem Notas</h1>
-  <div class="nota" contenteditable="true">
+  <div class="nota" id="nota" contenteditable="true">
     Edita la nota
   </div>
   
-  <button id="add-nota">Añadir nota</button>
-  <button id="clean-notas">Limpiar notas</button>
-  <div id="display-notas">
+  <button id="btn-add-nota">Añadir nota</button>
+  <button id="btn-clean-notas">Limpiar notas</button>
+  <div id="show-notas">
     <div class="no-nota">
-      <span>No tienes notas guardadas</span>
+      <span class="lista-notas">No tienes notas guardadas</span>
     </div>
   </div>
 </div>
