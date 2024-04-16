@@ -14,7 +14,7 @@ Descarga el repositorio de github y podrás usarlo sin problema.
 Código escrito en **html, css y js**.
 
 ## Instrucciones de uso
-Escribe tu nota dentro del post-it, pulsa el botón de guardar y se guardará para consultarla después (aparecerá debajo).
+Escribe tu nota dentro del post-it, pulsa el botón de añadir nota y se guardará para consultarla después (aparecerá debajo).
 Además podrás borrar las notas guardadas con el botón de limpiar notas.
 
 ## Solución de problemas:
