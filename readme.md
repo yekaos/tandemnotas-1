@@ -9,7 +9,7 @@ Esta aplicación sirve para guardar notas y consultarlas más tarde.
 
 ## Instalación
 Descarga el repositorio de github y podrás usarlo sin problema.
-Código escrito en html, css y js.
+Código escrito en **html, css y js**.
 
 ## Instrucciones de uso
 Escribe tu nota dentro del post-it, pulsa el botón de guardar y se guardará para consultarla después (aparecerá debajo).
