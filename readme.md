@@ -3,7 +3,7 @@
 - Autor: Cristina
 - Licencia: Desconocida
 
-<image src="notas.jpg">
+<image src="notas.jpg" width="200px">
 
 ## Descripción general:
 Esta aplicación sirve para guardar notas y consultarlas más tarde.
