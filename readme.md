@@ -23,8 +23,8 @@ Recursos de soporte: Enlaces a documentación adicional, foros comunitarios o ca
 Puedes contactar con nostros, o proponer tu contribución a través de nuestro correo:
 **cristinab.tandem@gmail.com**
 
-## Reconocimientos:
+### Reconocimientos:
 Agradecimientos a mí misma.
 
-## Apéndices:
+### Apéndices:
 Más info en nuestro github: **Crisbm9**
